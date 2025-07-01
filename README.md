@@ -23,5 +23,9 @@ Coding Grace aims to provide a support network for people from all backgrounds, 
 
 For more information, check out https://codinggrace.com.
 
+### You can find us on
+* LinkedIn: https://www.linkedin.com/company/coding-grace
+* Mastodon: https://mastodon.ie/@codinggrace
+
 # Enquiries/Questions?
 Email: contact@codinggrace.com
